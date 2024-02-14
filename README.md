@@ -15,12 +15,12 @@ The chat/voice interface seems to be the most general interface possible, it is 
 
 However there are two big ideas this projects builds on:
 
-1.) An optimised user interface (Frontend)
+1.) An optimized user interface (Frontend)
 2.) LLM performance improvemnts via additional software, data and prompting strategies. (Backend)
 
 These ideas are by no means new, there already exists a term for software build based on these two ideasa and are called GPT-Wrappers. Meaning software that incorperates ChatGPT to offer new capabilities to already sucessfull tools or enabling completly new tools which depand on the outputs of the LLM.
 
-For 1.) evey project will have different requirements and the design will be optemized for the targeted use case. The UI will be the outermost layer the user will see and interact with.
+For 1.) evey project will have different requirements and the design will be optemized for the targeted use case. The UI will be the outermost layer the user will see and interact with and can reach from a simple chat interface to a talking avatar in virtual reality.
 
 The ideas for 2.) will be mostly run in the background and here another seperation makes sense:
 
